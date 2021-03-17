@@ -4,7 +4,7 @@
 
 记录Coding过程，并对题目进行归类总结：
 
-<img src="C:\Users\93552\Desktop\阿岩壁纸\wallhaven-6q2www.png" alt="wallhaven-6q2www" style="zoom: 25%;" />
+<img src="C:\Users\93552\Desktop\CodePlay\paper.png" alt="paper" style="zoom:25%;" />
 
 
 
