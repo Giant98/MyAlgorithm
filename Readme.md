@@ -25,4 +25,5 @@
 | 456  | [132模式](https://leetcode-cn.com/problems/132-pattern/)     | Medium | 单调栈         | 可以再用二分法降低复杂度   |
 | 82   | [删除排序链表中的重复元素 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/) | Medium | 链表           | 注意头尾重复的特殊情况     |
 | 83   | [删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/) | Easy   | 链表           | C语言注意垃圾回收          |
+| 61   | [旋转链表](https://leetcode-cn.com/problems/rotate-list/)    | Medium | 链表           | 先变成闭环再断开           |
 
