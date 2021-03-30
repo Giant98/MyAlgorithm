@@ -27,4 +27,5 @@
 | 83   | [删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/) | Easy   | 链表           | C语言注意垃圾回收          |
 | 61   | [旋转链表](https://leetcode-cn.com/problems/rotate-list/)    | Medium | 链表           | 先变成闭环再断开           |
 | 190  | [颠倒二进制位](https://leetcode-cn.com/problems/reverse-bits/) | Easy   | 位运算         | 分治法，位运算需要多复习   |
+| 74   | [搜索二维矩阵](https://leetcode-cn.com/problems/search-a-2d-matrix/) | Medium | 查找           | 二分查找，官方题解非常优秀 |
 
