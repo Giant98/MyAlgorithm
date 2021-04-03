@@ -30,5 +30,6 @@
 | 74          | [搜索二维矩阵](https://leetcode-cn.com/problems/search-a-2d-matrix/) | Medium | 查找           | 二分查找，官方题解非常优秀 |
 | 90          | [子集 II](https://leetcode-cn.com/problems/subsets-ii/)      | Medium | 排序           | 返回数组子集，子集不能重复 |
 | 1006        | [笨阶乘](https://leetcode-cn.com/problems/clumsy-factorial/) | Medium | 栈或数学推导   | 无                         |
-| 面试题17.21 | [直方图的水量](https://leetcode-cn.com/problems/volume-of-histogram-lcci/) | Hard   | 单调栈或双指针 | 考虑特殊情况               |
+| 面试题17.21 | [直方图的水量](https://leetcode-cn.com/problems/volume-of-histogram-lcci/) | Hard   | 单调栈或双指针 | 考虑特殊情况  |
+| 1143        | [最长公共子序列](https://leetcode-cn.com/problems/longest-common-subsequence/) | Medium   | 动态规划 | 经典面试题    |
 
