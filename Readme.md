@@ -33,4 +33,5 @@
 | 面试题17.21 | [直方图的水量](https://leetcode-cn.com/problems/volume-of-histogram-lcci/) | Hard   | 单调栈或双指针 | 考虑特殊情况  |
 | 1143        | [最长公共子序列](https://leetcode-cn.com/problems/longest-common-subsequence/) | Medium   | 动态规划 | 经典面试题    |
 | 80 | [删除有序数组中的重复项 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii/) | Medium | 指针 | 无 |
+| 81 | [搜索旋转排序数组 II](https://leetcode-cn.com/problems/search-in-rotated-sorted-array-ii/) | Medium | 查找 | 二分查找 |
 
