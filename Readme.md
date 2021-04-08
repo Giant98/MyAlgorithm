@@ -34,4 +34,5 @@
 | 1143        | [最长公共子序列](https://leetcode-cn.com/problems/longest-common-subsequence/) | Medium   | 动态规划 | 经典面试题    |
 | 80 | [删除有序数组中的重复项 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii/) | Medium | 指针 | 无 |
 | 81 | [搜索旋转排序数组 II](https://leetcode-cn.com/problems/search-in-rotated-sorted-array-ii/) | Medium | 查找 | 二分查找 |
+| 153 | [寻找旋转排序数组中的最小值](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/) | Medium | 查找 | 特别注意边界情况 |
 
