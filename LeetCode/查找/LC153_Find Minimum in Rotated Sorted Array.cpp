@@ -16,53 +16,17 @@
 */
 class Solution {
 public:
-    bool searchMatrix(vector<vector<int>>& matrix, int target) {
-        int left = 0, right = matrix.size();
-        if (right == 0 || matrix[0][0] > target)
-            return false;
-        right = right - 1;
-        int index = 0;
-        int middle = 0;
-        int temp = 0;
-        while (left <= right) {
-            middle = (left + right) / 2;
-            temp = matrix[middle][0];
-            if (temp == target)
-                return true;
-            if (temp < target) {
-                if (middle + 1 >= matrix.size() || matrix[middle + 1][0] > target) {
-                    index = middle;
-                    break;
-                }
-                else {
-                    left = middle + 1;
-                    continue;
-                }
+    int findMin(vector<int>& nums) {
+        int l = 0, r = nums.size() - 1;
+        while (l < r) {
+            int mid = (r - l) / 2 + l;
+            if (nums[mid] < nums[r]) {
+                r = mid;
             }
-            if (temp > target) {
-                if (matrix[middle - 1][0] < target) {
-                    index = middle - 1;
-                    break;
-                }
-                else {
-                    right = middle - 1;
-                    continue;
-                }
+            else {
+                l = mid + 1;
             }
         }
-
-        left = 0;
-        right = matrix[0].size() - 1;
-        while (left <= right) {
-            middle = (left + right) / 2;
-            temp = matrix[index][middle];
-            if (temp == target)
-                return true;
-            if (temp < target)
-                left = middle + 1;
-            else
-                right = middle - 1;
-        }
-        return false;
+        return nums[l];
     }
 };
