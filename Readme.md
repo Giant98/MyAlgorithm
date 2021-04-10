@@ -36,4 +36,5 @@
 | 81 | [搜索旋转排序数组 II](https://leetcode-cn.com/problems/search-in-rotated-sorted-array-ii/) | Medium | 查找 | 二分查找 |
 | 153 | [寻找旋转排序数组中的最小值](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/) | Medium | 查找 | 特别注意边界情况 |
 | 154 | [寻找旋转排序数组中的最小值 II](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array-ii/) | Hard | 查找 | 与153类似，注意重复情况 |
+| 263 | [丑数](https://leetcode-cn.com/problems/ugly-number/) | Easy | 递归 | 无 |
 
