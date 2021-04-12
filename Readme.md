@@ -37,5 +37,6 @@
 | 153 | [寻找旋转排序数组中的最小值](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/) | Medium | 查找 | 特别注意边界情况 |
 | 154 | [寻找旋转排序数组中的最小值 II](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array-ii/) | Hard | 查找 | 与153类似，注意重复情况 |
 | 263 | [丑数](https://leetcode-cn.com/problems/ugly-number/) | Easy | 递归 | 无 |
-| 264 | [丑数 II](https://leetcode-cn.com/problems/ugly-number-ii/) | Medium | 三指针 | priority_queue⭐ |
+| 264 | [丑数 II](https://leetcode-cn.com/problems/ugly-number-ii/) | Medium | 三指针 | priority_queue数据结构⭐ |
+| 179 | [最大数](https://leetcode-cn.com/problems/largest-number/) | Medium | 排序 | string可根据字典序排序⭐ |
 
