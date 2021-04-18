@@ -43,4 +43,5 @@
 | 208 | [实现 Trie (前缀树)](https://leetcode-cn.com/problems/implement-trie-prefix-tree/) | Medium | 前缀树 | LeetCode手把手教你学前缀树（字典树） |
 | 213 | [打家劫舍 II](https://leetcode-cn.com/problems/house-robber-ii/) | Medium | 动态规划 | 根据首尾两种情况分别讨论 |
 | 87 | [87. 扰乱字符串](https://leetcode-cn.com/problems/scramble-string/) | Hard | 动态规划 | 需要用Memory存储中间值来减少开销 |
+| 26 | [删除有序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) | Easy | 脑筋急转弯 | 无 |
 
