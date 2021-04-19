@@ -44,4 +44,5 @@
 | 213 | [打家劫舍 II](https://leetcode-cn.com/problems/house-robber-ii/) | Medium | 动态规划 | 根据首尾两种情况分别讨论 |
 | 87 | [87. 扰乱字符串](https://leetcode-cn.com/problems/scramble-string/) | Hard | 动态规划 | 需要用Memory存储中间值来减少开销 |
 | 26 | [删除有序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) | Easy | 脑筋急转弯 | 无 |
+| 27 | [移除元素](https://leetcode-cn.com/problems/remove-element/) | Easy | 双指针 | 官方题解的优化不错 |
 
