@@ -46,5 +46,6 @@
 | 26 | [删除有序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) | Easy | 脑筋急转弯 | 无 |
 | 27 | [移除元素](https://leetcode-cn.com/problems/remove-element/) | Easy | 双指针 | 官方题解的优化不错 |
 | 28 | [实现 strStr()](https://leetcode-cn.com/problems/implement-strstr/) | Easy | 暴力or KMP | 无 |
-| 91 | [91. 解码方法](https://leetcode-cn.com/problems/decode-ways/) | Medium | 动态规划 | 注意边界，00,01情况 |
+| 91 | [解码方法](https://leetcode-cn.com/problems/decode-ways/) | Medium | 动态规划 | 注意边界，00,01情况 |
+| 363 | [矩形区域不超过 K 的最大数值和](https://leetcode-cn.com/problems/max-sum-of-rectangle-no-larger-than-k/) | Hard | 枚举优化 | 学习题解中矩阵的划分 |
 
