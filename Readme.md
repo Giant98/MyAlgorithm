@@ -48,4 +48,5 @@
 | 28 | [实现 strStr()](https://leetcode-cn.com/problems/implement-strstr/) | Easy | 暴力or KMP | 无 |
 | 91 | [解码方法](https://leetcode-cn.com/problems/decode-ways/) | Medium | 动态规划 | 注意边界，00,01情况 |
 | 363 | [矩形区域不超过 K 的最大数值和](https://leetcode-cn.com/problems/max-sum-of-rectangle-no-larger-than-k/) | Hard | 枚举优化 | 学习题解中矩阵的划分 |
+| 368 | [最大整除子集](https://leetcode-cn.com/problems/largest-divisible-subset/) | Medium | 动态规划 | 经典⭐ |
 
