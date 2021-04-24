@@ -21,7 +21,7 @@
 | 73          | [矩阵置零](https://leetcode-cn.com/problems/set-matrix-zeroes/) | Medium | 脑筋急转弯     | 如何达到O(1)空间复杂度     |
 | 191         | [位1的个数](https://leetcode-cn.com/problems/number-of-1-bits/) | Easy   | 位运算         | 无                         |
 | 341         | [嵌套列表迭代器](https://leetcode-cn.com/problems/flatten-nested-list-iterator/) | Medium | 模拟迭代器     | 简单：直接dfs全找出来      |
-| 341         |                                                              |        |                | 复杂：利用栈模拟迭代器遍历 |
+|          |                                                              |        |                | 复杂：利用栈模拟迭代器遍历 |
 | 456         | [132模式](https://leetcode-cn.com/problems/132-pattern/)     | Medium | 单调栈         | 可以再用二分法降低复杂度   |
 | 82          | [删除排序链表中的重复元素 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/) | Medium | 链表           | 注意头尾重复的特殊情况     |
 | 83          | [删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/) | Easy   | 链表           | C语言注意垃圾回收          |
@@ -49,4 +49,5 @@
 | 91 | [解码方法](https://leetcode-cn.com/problems/decode-ways/) | Medium | 动态规划 | 注意边界，00,01情况 |
 | 363 | [矩形区域不超过 K 的最大数值和](https://leetcode-cn.com/problems/max-sum-of-rectangle-no-larger-than-k/) | Hard | 枚举优化 | 学习题解中矩阵的划分 |
 | 368 | [最大整除子集](https://leetcode-cn.com/problems/largest-divisible-subset/) | Medium | 动态规划 | 经典⭐ |
+| 377 | [组合总和 Ⅳ](https://leetcode-cn.com/problems/combination-sum-iv/) | Medium | 动态规划 | 经典⭐ |
 
