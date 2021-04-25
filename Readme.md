@@ -50,4 +50,5 @@
 | 363 | [矩形区域不超过 K 的最大数值和](https://leetcode-cn.com/problems/max-sum-of-rectangle-no-larger-than-k/) | Hard | 枚举优化 | 学习题解中矩阵的划分 |
 | 368 | [最大整除子集](https://leetcode-cn.com/problems/largest-divisible-subset/) | Medium | 动态规划 | 经典⭐ |
 | 377 | [组合总和 Ⅳ](https://leetcode-cn.com/problems/combination-sum-iv/) | Medium | 动态规划 | 经典⭐ |
+| 897 | [递增顺序搜索树](https://leetcode-cn.com/problems/increasing-order-search-tree/) | Easy | 二叉搜索树 | 无 |
 
