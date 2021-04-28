@@ -52,4 +52,5 @@
 | 377 | [组合总和 Ⅳ](https://leetcode-cn.com/problems/combination-sum-iv/) | Medium | 动态规划 | 经典⭐ |
 | 897 | [递增顺序搜索树](https://leetcode-cn.com/problems/increasing-order-search-tree/) | Easy | 二叉搜索树 | 无 |
 | 1011 | [在 D 天内送达包裹的能力](https://leetcode-cn.com/problems/capacity-to-ship-packages-within-d-days/) | Medium | 二分查找 | 经典⭐ |
+| 633 | [平方数之和](https://leetcode-cn.com/problems/sum-of-square-numbers/) | Medium | 双指针 | 无 |
 
