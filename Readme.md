@@ -54,4 +54,5 @@
 | 1011 | [在 D 天内送达包裹的能力](https://leetcode-cn.com/problems/capacity-to-ship-packages-within-d-days/) | Medium | 二分查找 | 经典⭐ |
 | 938 | [二叉搜索树的范围和](https://leetcode-cn.com/problems/range-sum-of-bst/) | Easy | 二叉搜索树 | 无 |
 | 633 | [平方数之和](https://leetcode-cn.com/problems/sum-of-square-numbers/) | Medium | 双指针 | 无 |
+| 403 | [青蛙过河](https://leetcode-cn.com/problems/frog-jump/) | Hard | 动态规划 | 无 |
 
