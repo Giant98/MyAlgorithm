@@ -56,4 +56,5 @@
 | 633 | [平方数之和](https://leetcode-cn.com/problems/sum-of-square-numbers/) | Medium | 双指针 | 无 |
 | 403 | [青蛙过河](https://leetcode-cn.com/problems/frog-jump/) | Hard | 动态规划 | 无 |
 | 137 | [只出现一次的数字 II](https://leetcode-cn.com/problems/single-number-ii/) | Medium | 位运算 | for(auto [num,occ] : freq)       map的遍历方式，记录一下 |
+| 690 | [员工的重要性](https://leetcode-cn.com/problems/employee-importance/) | Easy | 无 | 无 |
 
