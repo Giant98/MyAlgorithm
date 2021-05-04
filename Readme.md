@@ -58,4 +58,5 @@
 | 137 | [只出现一次的数字 II](https://leetcode-cn.com/problems/single-number-ii/) | Medium | 位运算 | for(auto [num,occ] : freq)       map的遍历方式，记录一下 |
 | 690 | [员工的重要性](https://leetcode-cn.com/problems/employee-importance/) | Easy | 无 | 无 |
 | 7 | [整数反转](https://leetcode-cn.com/problems/reverse-integer/) | Easy | 无 | 无 |
+| 1473 | [粉刷房子 III](https://leetcode-cn.com/problems/paint-house-iii/) | Hard | 动态规划 | 无 |
 
