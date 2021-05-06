@@ -60,4 +60,5 @@
 | 7 | [整数反转](https://leetcode-cn.com/problems/reverse-integer/) | Easy | 无 | 无 |
 | 1473 | [粉刷房子 III](https://leetcode-cn.com/problems/paint-house-iii/) | Hard | 动态规划 | 无 |
 | 740 | [删除并获得点数](https://leetcode-cn.com/problems/delete-and-earn/) | Medium | 动态规划 | 参考213题 |
+| 1720 | [解码异或后的数组](https://leetcode-cn.com/problems/decode-xored-array/) | Easy | 异或运算 | first可以换成ans[i-1]减少空间 |
 
