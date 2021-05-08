@@ -63,3 +63,6 @@
 | 1720 | [解码异或后的数组](https://leetcode-cn.com/problems/decode-xored-array/) | Easy | 异或运算 | first可以换成ans[i-1]减少空间 |
 | 1486 | [数组异或操作](https://leetcode-cn.com/problems/xor-operation-in-an-array/) | Easy | 异或规律 | 无 |
 
+| 题号 | 标题                                                         | 难度 | 算法    | 备注 |
+| ---- | :----------------------------------------------------------- | ---- | :------ | ---- |
+| 1723 | [完成所有工作的最短时间](https://leetcode-cn.com/problems/find-minimum-time-to-finish-all-jobs/) | Hard | DFS优化 | 无   |
