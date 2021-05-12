@@ -68,3 +68,4 @@
 | 1723 | [完成所有工作的最短时间](https://leetcode-cn.com/problems/find-minimum-time-to-finish-all-jobs/) | Hard | DFS优化 | 好题   |
 | 872 | [叶子相似的树](https://leetcode-cn.com/problems/leaf-similar-trees/) | Easy | DFS | 无 |
 | 1734 | [解码异或后的排列](https://leetcode-cn.com/problems/decode-xored-permutation/) | Medium | 位运算 | 1720题进阶 |
+| 1310 | [子数组异或查询](https://leetcode-cn.com/problems/xor-queries-of-a-subarray/) | Medium | 位运算 | 无 |
