@@ -73,3 +73,5 @@
 | 12 | [整数转罗马数字](https://leetcode-cn.com/problems/integer-to-roman/) | Medium | 模拟 | 无 |
 | 421 | [数组中两个数的最大异或值](https://leetcode-cn.com/problems/maximum-xor-of-two-numbers-in-an-array/) | Medium | 位运算 | 无 |
 | 993 | [二叉树的堂兄弟节点](https://leetcode-cn.com/problems/cousins-in-binary-tree/) | Easy | 二叉树层次遍历 | 无 |
+| 1442 | [形成两个异或相等数组的三元组数目](https://leetcode-cn.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium | 位运算 | 可以利用异或的特性转换题目 |
+
