@@ -74,4 +74,5 @@
 | 421 | [数组中两个数的最大异或值](https://leetcode-cn.com/problems/maximum-xor-of-two-numbers-in-an-array/) | Medium | 位运算 | 无 |
 | 993 | [二叉树的堂兄弟节点](https://leetcode-cn.com/problems/cousins-in-binary-tree/) | Easy | 二叉树层次遍历 | 无 |
 | 1442 | [形成两个异或相等数组的三元组数目](https://leetcode-cn.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium | 位运算 | 可以利用异或的特性转换题目 |
+| 1738 | [找出第 K 大的异或坐标值](https://leetcode-cn.com/problems/find-kth-largest-xor-coordinate-value/) | Medium | 动态规划 | 无 |
 
