@@ -75,4 +75,80 @@
 | 993 | [二叉树的堂兄弟节点](https://leetcode-cn.com/problems/cousins-in-binary-tree/) | Easy | 二叉树层次遍历 | 无 |
 | 1442 | [形成两个异或相等数组的三元组数目](https://leetcode-cn.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium | 位运算 | 可以利用异或的特性转换题目 |
 | 1738 | [找出第 K 大的异或坐标值](https://leetcode-cn.com/problems/find-kth-largest-xor-coordinate-value/) | Medium | 动态规划 | 无 |
+| 692 | [前K个高频单词](https://leetcode-cn.com/problems/top-k-frequent-words/) | Medium | 哈希表+排序 | 代码写了两种解决方案，一种官方题解比较清晰易懂，一种使用了较多C++11特性 |
 
+------
+
+## C++查漏补缺
+
+### 1. C++11使用using定义别名（替代typedef）
+
+普通类型的重定义
+
+```
+// 重定义unsigned int
+typedef unsigned int uint_t;
+using uint_t = unsigned int;
+// 重定义std::map
+typedef std::map<std::string, int> map_int_t;
+using map_int_t = std::map<std::string, int>;
+```
+
+模板别名的重定义
+
+```
+/* C++98/03 */
+template <typename T>
+struct func_t
+{
+    typedef void (*type)(T, T);
+};
+// 使用 func_t 模板
+func_t<int>::type xx_1;
+/* C++11 */
+template <typename T>
+using func_t = void (*)(T, T);
+// 使用 func_t 模板
+func_t<int> xx_2;
+```
+
+### 2. C++ decltype类型推导
+
+既然已经有了 auto 关键字，为什么还需要 **decltype** 关键字呢？因为 auto 并不适用于所有的自动类型推导场景。
+
+auto 和 decltype 关键字都可以自动推导出变量的类型，但它们的用法是有区别的：
+
+auto varname = value;
+decltype(exp) varname = value;
+
+其中，varname 表示变量名，value 表示赋给变量的值，exp 表示一个表达式。
+
+auto 根据`=`右边的初始值 value 推导出变量的类型，而 decltype 根据 exp 表达式推导出变量的类型，跟`=`右边的 value 没有关系。
+
+##### decltype 推导规则
+
+- 如果 exp 是一个不被括号`( )`包围的表达式，或者是一个类成员访问表达式，或者是一个单独的变量，那么 decltype(exp) 的类型就和 exp 一致，这是最普遍最常见的情况。
+- 如果 exp 是函数调用，那么 decltype(exp) 的类型就和函数返回值的类型一致。
+- 如果 exp 是一个左值，或者被括号`( )`包围，那么 decltype(exp) 的类型就是 exp 的引用；假设 exp 的类型为 T，那么 decltype(exp) 的类型就是 T&。
+
+具体例子查看：http://c.biancheng.net/view/7151.html
+
+### 3. priority_queue
+
+priority_queue 优先队列，其底层是用堆来实现的。
+
+大根堆：
+
+```
+//下面两种优先队列的定义是等价的
+priority_queue<int> q;
+priority_queue<int,vector<int>,less<int> >;//后面有一个空格
+```
+
+小根堆：
+
+```
+priority_queue<int,vector<int>,greater<int> >q;
+```
+
+也可以自定义类型做优先队列元素
