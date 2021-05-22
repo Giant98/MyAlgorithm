@@ -77,6 +77,7 @@
 | 1738 | [找出第 K 大的异或坐标值](https://leetcode-cn.com/problems/find-kth-largest-xor-coordinate-value/) | Medium | 动态规划 | 无 |
 | 692 | [前K个高频单词](https://leetcode-cn.com/problems/top-k-frequent-words/) | Medium | 哈希表+排序 | 代码写了两种解决方案，一种官方题解比较清晰易懂，一种使用了较多C++11特性 |
 | 1035 | [不相交的线](https://leetcode-cn.com/problems/uncrossed-lines/) | Medium | 动态规划 | 无 |
+| 810 | [黑板异或游戏](https://leetcode-cn.com/problems/chalkboard-xor-game/) | Hard | 数学推导 | ⭐ |
 
 ------
 
