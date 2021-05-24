@@ -78,6 +78,7 @@
 | 692 | [前K个高频单词](https://leetcode-cn.com/problems/top-k-frequent-words/) | Medium | 哈希表+排序 | 代码写了两种解决方案，一种官方题解比较清晰易懂，一种使用了较多C++11特性 |
 | 1035 | [不相交的线](https://leetcode-cn.com/problems/uncrossed-lines/) | Medium | 动态规划 | 无 |
 | 810 | [黑板异或游戏](https://leetcode-cn.com/problems/chalkboard-xor-game/) | Hard | 数学推导 | ⭐ |
+| 664 | [奇怪的打印机](https://leetcode-cn.com/problems/strange-printer/) | Hard | 动态规划 | 比较难想到的动规 |
 
 ------
 
