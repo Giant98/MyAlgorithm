@@ -79,6 +79,7 @@
 | 1035 | [不相交的线](https://leetcode-cn.com/problems/uncrossed-lines/) | Medium | 动态规划 | 无 |
 | 810 | [黑板异或游戏](https://leetcode-cn.com/problems/chalkboard-xor-game/) | Hard | 数学推导 | ⭐ |
 | 664 | [奇怪的打印机](https://leetcode-cn.com/problems/strange-printer/) | Hard | 动态规划 | 比较难想到的动规 |
+| 1787 | [使所有区间的异或结果为零](https://leetcode-cn.com/problems/make-the-xor-of-all-segments-equal-to-zero/) | Hard | 动态规划 | 无 |
 
 ------
 
