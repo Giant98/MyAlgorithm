@@ -81,6 +81,7 @@
 | 664 | [奇怪的打印机](https://leetcode-cn.com/problems/strange-printer/) | Hard | 动态规划 | 比较难想到的动规 |
 | 1787 | [使所有区间的异或结果为零](https://leetcode-cn.com/problems/make-the-xor-of-all-segments-equal-to-zero/) | Hard | 动态规划 | 无 |
 | 1190 | [反转每对括号间的子串](https://leetcode-cn.com/problems/reverse-substrings-between-each-pair-of-parentheses/) | Medium | 栈 | ⭐ |
+| 461 | [汉明距离](https://leetcode-cn.com/problems/hamming-distance/) | Easy | 位运算 | &.\|.^.~.<<.>>位运算操作符，优先级比!=.==低 |
 
 ------
 
