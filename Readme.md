@@ -84,6 +84,7 @@
 | 461 | [汉明距离](https://leetcode-cn.com/problems/hamming-distance/) | Easy | 位运算 | &.\|.^.~.<<.>>位运算操作符，优先级比!=.==低 |
 | 1074 | [元素和为目标值的子矩阵数量](https://leetcode-cn.com/problems/number-of-submatrices-that-sum-to-target/) | Hard | 枚举优化 | 无 |
 | 342 | [4的幂](https://leetcode-cn.com/problems/power-of-four/) | East | 位运算 | 可用位运算优化 |
+| 1744 | [你能在你最喜欢的那天吃到你最喜欢的糖果吗？](https://leetcode-cn.com/problems/can-you-eat-your-favorite-candy-on-your-favorite-day/) | Medium | 前缀和 | ⭐ |
 
 ------
 
