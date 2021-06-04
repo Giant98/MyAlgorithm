@@ -87,6 +87,7 @@
 | 1744 | [你能在你最喜欢的那天吃到你最喜欢的糖果吗？](https://leetcode-cn.com/problems/can-you-eat-your-favorite-candy-on-your-favorite-day/) | Medium | 前缀和 | ⭐ |
 | 523 | [连续的子数组和](https://leetcode-cn.com/problems/continuous-subarray-sum/) | Medium | 前缀和+哈希表 | 通过哈希表来将O(n^2)遍历降为O(n) |
 | 525 | [连续数组](https://leetcode-cn.com/problems/contiguous-array/) | Medium | 前缀和+哈希表 | 和523一样 |
+| 160 | [相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/) | Easy | 链表 | 无 |
 
 
 
