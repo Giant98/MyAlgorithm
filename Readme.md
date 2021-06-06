@@ -89,6 +89,7 @@
 | 525 | [连续数组](https://leetcode-cn.com/problems/contiguous-array/) | Medium | 前缀和+哈希表 | 和523一样 |
 | 160 | [相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/) | Easy | 链表 | 无 |
 | 203 | [移除链表元素](https://leetcode-cn.com/problems/remove-linked-list-elements/) | Easy | 链表 | 无 |
+| 474 | [ 一和零](https://leetcode-cn.com/problems/ones-and-zeroes/) | Medium | 动态规划 | 类似背包问题⭐ |
 
 
 
