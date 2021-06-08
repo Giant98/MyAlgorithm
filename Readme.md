@@ -89,6 +89,7 @@
 | 525 | [连续数组](https://leetcode-cn.com/problems/contiguous-array/) | Medium | 前缀和+哈希表 | 和523一样 |
 | 160 | [相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/) | Easy | 链表 | 无 |
 | 494 | [目标和](https://leetcode-cn.com/problems/target-sum/) | Medium | 动态规划 | 写动态规划前还是先好好列一下 |
+| 1049 | [最后一块石头的重量 II](https://leetcode-cn.com/problems/last-stone-weight-ii/) | Medium | 背包问题，动态规划 | 经典背包问题修改版⭐，注意可用滚动数组形式去掉一个维度 |
 
 
 
