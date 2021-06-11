@@ -92,6 +92,7 @@
 | 1049 | [最后一块石头的重量 II](https://leetcode-cn.com/problems/last-stone-weight-ii/) | Medium | 背包问题，动态规划 | 经典背包问题修改版⭐，注意可用滚动数组形式去掉一个维度 |
 | 879 | [盈利计划](https://leetcode-cn.com/problems/profitable-schemes/) | Hard | 背包问题 | 经典背包问题⭐ |
 | 518 | [零钱兑换 II](https://leetcode-cn.com/problems/coin-change-2/) | Medium | 动态规划 | 注意硬币选择要有顺序，避免类似1+2,2+1的重复问题 |
+| 279 | [完全平方数](https://leetcode-cn.com/problems/perfect-squares/) | Medium | 动态规划 | 无 |
 
 
 
