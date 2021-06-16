@@ -94,6 +94,7 @@
 | 518 | [零钱兑换 II](https://leetcode-cn.com/problems/coin-change-2/) | Medium | 动态规划 | 注意硬币选择要有顺序，避免类似1+2,2+1的重复问题 |
 | 279 | [完全平方数](https://leetcode-cn.com/problems/perfect-squares/) | Medium | 动态规划 | 无 |
 | 852 | [山脉数组的峰顶索引](https://leetcode-cn.com/problems/peak-index-in-a-mountain-array/) | Easy | 二分法 | 无 |
+| 877 | [石子游戏](https://leetcode-cn.com/problems/stone-game/) | Medium | 动态规划 | 无 |
 
 
 
