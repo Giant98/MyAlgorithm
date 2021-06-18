@@ -96,6 +96,7 @@
 | 852 | [山脉数组的峰顶索引](https://leetcode-cn.com/problems/peak-index-in-a-mountain-array/) | Easy | 二分法 | 无 |
 | 877 | [石子游戏](https://leetcode-cn.com/problems/stone-game/) | Medium | 动态规划 | 无 |
 | 65 | [有效数字](https://leetcode-cn.com/problems/valid-number/) | Hard | 自动机 | 无 |
+| 483 | [最小好进制](https://leetcode-cn.com/problems/smallest-good-base/) | Hard | 数学推导 | 等比数列+二项式定理 |
 
 
 
