@@ -97,6 +97,7 @@
 | 877 | [石子游戏](https://leetcode-cn.com/problems/stone-game/) | Medium | 动态规划 | 无 |
 | 65 | [有效数字](https://leetcode-cn.com/problems/valid-number/) | Hard | 自动机 | 无 |
 | 483 | [最小好进制](https://leetcode-cn.com/problems/smallest-good-base/) | Hard | 数学推导 | 等比数列+二项式定理 |
+| 401 | [二进制手表](https://leetcode-cn.com/problems/binary-watch/) | East | 无 | __builtin_popcount(num)可以计算num二进制中1的个数 |
 
 
 
