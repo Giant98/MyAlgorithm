@@ -99,6 +99,7 @@
 | 483 | [最小好进制](https://leetcode-cn.com/problems/smallest-good-base/) | Hard | 数学推导 | 等比数列+二项式定理 |
 | 401 | [二进制手表](https://leetcode-cn.com/problems/binary-watch/) | East | 无 | __builtin_popcount(num)可以计算num二进制中1的个数 |
 | Offer 38 | [字符串的排列](https://leetcode-cn.com/problems/zi-fu-chuan-de-pai-lie-lcof/) | Medium | 字符串深度搜索 | 经典⭐ |
+| Offer 15 | [二进制中1的个数](https://leetcode-cn.com/problems/er-jin-zhi-zhong-1de-ge-shu-lcof/) | Easy | 位运算 | n&(n-1)可以把n的二进制中最低位1变为0 |
 
 
 
