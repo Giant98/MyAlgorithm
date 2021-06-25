@@ -101,6 +101,7 @@
 | Offer 38 | [字符串的排列](https://leetcode-cn.com/problems/zi-fu-chuan-de-pai-lie-lcof/) | Medium | 字符串深度搜索 | 经典⭐ |
 | Offer 15 | [二进制中1的个数](https://leetcode-cn.com/problems/er-jin-zhi-zhong-1de-ge-shu-lcof/) | Easy | 位运算 | n&(n-1)可以把n的二进制中最低位1变为0 |
 | 149 | [直线上最多的点数](https://leetcode-cn.com/problems/max-points-on-a-line/) | Hard | 遍历 | 无 |
+| 752 | [打开转盘锁](https://leetcode-cn.com/problems/open-the-lock/) | Medium | BFS | 可以学习代码的C++特性 |
 
 
 
