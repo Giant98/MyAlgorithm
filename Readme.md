@@ -104,6 +104,7 @@
 | 752 | [打开转盘锁](https://leetcode-cn.com/problems/open-the-lock/) | Medium | BFS | 可以学习代码的C++特性 |
 | 815 | [公交路线](https://leetcode-cn.com/problems/bus-routes/) | Hard | BFS | 建图策略很好 |
 | 168 | [Excel表列名称](https://leetcode-cn.com/problems/excel-sheet-column-title/) | Easy | 字符串运算 | 无 |
+| Offer 37 | [序列化二叉树](https://leetcode-cn.com/problems/xu-lie-hua-er-cha-shu-lcof/) | Hard | 序列化二叉树 | 无 |
 
 
 
