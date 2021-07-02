@@ -106,6 +106,7 @@
 | 168 | [Excel表列名称](https://leetcode-cn.com/problems/excel-sheet-column-title/) | Easy | 字符串运算 | 无 |
 | Offer 37 | [序列化二叉树](https://leetcode-cn.com/problems/xu-lie-hua-er-cha-shu-lcof/) | Hard | 序列化二叉树 | 无 |
 | LCP 07 | [传递信息](https://leetcode-cn.com/problems/chuan-di-xin-xi/) | Easy | 动态规划 | 无 |
+| 1833 | [雪糕的最大数量](https://leetcode-cn.com/problems/maximum-ice-cream-bars/) | Medium | 无 | 无 |
 
 
 
