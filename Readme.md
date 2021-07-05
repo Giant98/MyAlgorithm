@@ -107,6 +107,7 @@
 | Offer 37 | [序列化二叉树](https://leetcode-cn.com/problems/xu-lie-hua-er-cha-shu-lcof/) | Hard | 序列化二叉树 | 无 |
 | LCP 07 | [传递信息](https://leetcode-cn.com/problems/chuan-di-xin-xi/) | Easy | 动态规划 | 无 |
 | 1833 | [雪糕的最大数量](https://leetcode-cn.com/problems/maximum-ice-cream-bars/) | Medium | 无 | 无 |
+| 726 | [原子的数量](https://leetcode-cn.com/problems/number-of-atoms/) | Hard | 栈+哈希表 | 无 |
 
 
 
