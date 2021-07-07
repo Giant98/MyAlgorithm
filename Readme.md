@@ -109,6 +109,7 @@
 | 1833 | [雪糕的最大数量](https://leetcode-cn.com/problems/maximum-ice-cream-bars/) | Medium | 无 | 无 |
 | 726 | [原子的数量](https://leetcode-cn.com/problems/number-of-atoms/) | Hard | 栈+哈希表 | 无 |
 | 1418 | [点菜展示表](https://leetcode-cn.com/problems/display-table-of-food-orders-in-a-restaurant/) | Medium | set, map | 无 |
+| 1711 | [大餐计数](https://leetcode-cn.com/problems/count-good-meals/) | Mediun | 哈希表 | 无 |
 
 
 
