@@ -110,6 +110,7 @@
 | 726 | [原子的数量](https://leetcode-cn.com/problems/number-of-atoms/) | Hard | 栈+哈希表 | 无 |
 | 1418 | [点菜展示表](https://leetcode-cn.com/problems/display-table-of-food-orders-in-a-restaurant/) | Medium | set, map | 无 |
 | 1711 | [大餐计数](https://leetcode-cn.com/problems/count-good-meals/) | Mediun | 哈希表 | 无 |
+| 17.10 | [主要元素](https://leetcode-cn.com/problems/find-majority-element-lcci/) | Medium | 打群架算法 | 无 |
 
 
 
