@@ -111,6 +111,7 @@
 | 1418 | [点菜展示表](https://leetcode-cn.com/problems/display-table-of-food-orders-in-a-restaurant/) | Medium | set, map | 无 |
 | 1711 | [大餐计数](https://leetcode-cn.com/problems/count-good-meals/) | Mediun | 哈希表 | 无 |
 | 17.10 | [主要元素](https://leetcode-cn.com/problems/find-majority-element-lcci/) | Medium | 打群架算法 | 无 |
+| 275 | [H 指数 II](https://leetcode-cn.com/problems/h-index-ii/) | Medium | 二分法 | 无 |
 
 
 
