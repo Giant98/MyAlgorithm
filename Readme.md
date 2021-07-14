@@ -113,6 +113,7 @@
 | 17.10 | [主要元素](https://leetcode-cn.com/problems/find-majority-element-lcci/) | Medium | 打群架算法 | 无 |
 | 275 | [H 指数 II](https://leetcode-cn.com/problems/h-index-ii/) | Medium | 二分法 | 无 |
 | 218 | [天际线问题](https://leetcode-cn.com/problems/the-skyline-problem/) | Hard | 扫描线法 | 巧用multiset |
+| 1818 | [绝对差值和](https://leetcode-cn.com/problems/minimum-absolute-sum-difference/) | Medium | 贪心 | upper_bound,lower_bound区分 |
 
 
 
