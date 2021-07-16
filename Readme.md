@@ -115,6 +115,7 @@
 | 218 | [天际线问题](https://leetcode-cn.com/problems/the-skyline-problem/) | Hard | 扫描线法 | 巧用multiset |
 | 1818 | [绝对差值和](https://leetcode-cn.com/problems/minimum-absolute-sum-difference/) | Medium | 贪心 | upper_bound,lower_bound区分 |
 | 1846 | [减小和重新排列数组后的最大元素](https://leetcode-cn.com/problems/maximum-element-after-decreasing-and-rearranging/) | Medium | 排序+贪心 | 无 |
+| Offer-53 | [在排序数组中查找数字 I](https://leetcode-cn.com/problems/zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof/) | Easy | 二分法 | 无 |
 
 
 
