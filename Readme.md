@@ -116,6 +116,7 @@
 | 1818 | [绝对差值和](https://leetcode-cn.com/problems/minimum-absolute-sum-difference/) | Medium | 贪心 | upper_bound,lower_bound区分 |
 | 1846 | [减小和重新排列数组后的最大元素](https://leetcode-cn.com/problems/maximum-element-after-decreasing-and-rearranging/) | Medium | 排序+贪心 | 无 |
 | Offer-53 | [在排序数组中查找数字 I](https://leetcode-cn.com/problems/zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof/) | Easy | 二分法 | 无 |
+| 743 | [网络延迟时间](https://leetcode-cn.com/problems/network-delay-time/) | Medium | Dijkstra算法 | 使用优先队列，适用于稀疏图：将所有点分成visited和unvisited两个集合，优先队列记录的是和visited的点相连的边                     不使用优先队列，适用于稠密图：不使用优先队列，但引入visited向量记录是否使用过了，使用邻接矩阵表示邻接关系 |
 
 
 
