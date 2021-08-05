@@ -119,6 +119,7 @@
 | 743 | [网络延迟时间](https://leetcode-cn.com/problems/network-delay-time/) | Medium | Dijkstra算法 | 使用优先队列，适用于稀疏图：将所有点分成visited和unvisited两个集合，优先队列记录的是和visited的点相连的边                     不使用优先队列，适用于稠密图：不使用优先队列，但引入visited向量记录是否使用过了，使用邻接矩阵表示邻接关系 |
 | 581 | [最短无序连续子数组](https://leetcode-cn.com/problems/shortest-unsorted-continuous-subarray/) | Medium | 脑筋急转弯 | 无 |
 | 611 | [有效三角形的个数](https://leetcode-cn.com/problems/valid-triangle-number/) | Medium | 遍历 | lower_bound() |
+| 802 | [找到最终的安全状态](https://leetcode-cn.com/problems/find-eventual-safe-states/) | Medium | 拓扑排序 | ⭐逆向建图 |
 
 
 
