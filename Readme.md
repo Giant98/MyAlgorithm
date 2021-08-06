@@ -120,6 +120,7 @@
 | 581 | [最短无序连续子数组](https://leetcode-cn.com/problems/shortest-unsorted-continuous-subarray/) | Medium | 脑筋急转弯 | 无 |
 | 611 | [有效三角形的个数](https://leetcode-cn.com/problems/valid-triangle-number/) | Medium | 遍历 | lower_bound() |
 | 802 | [找到最终的安全状态](https://leetcode-cn.com/problems/find-eventual-safe-states/) | Medium | 拓扑排序 | ⭐逆向建图 |
+| 847 | [访问所有节点的最短路径](https://leetcode-cn.com/problems/shortest-path-visiting-all-nodes/) | Hard | 状态压缩+BFS | ⭐当数据n比较小（<30），可以考虑状态压缩，用二进制位来表示n的状态，位运算比较快 |
 
 
 
