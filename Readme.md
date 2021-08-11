@@ -122,6 +122,8 @@
 | 802 | [找到最终的安全状态](https://leetcode-cn.com/problems/find-eventual-safe-states/) | Medium | 拓扑排序 | ⭐逆向建图 |
 | 847 | [访问所有节点的最短路径](https://leetcode-cn.com/problems/shortest-path-visiting-all-nodes/) | Hard | 状态压缩+BFS | ⭐当数据n比较小（<30），可以考虑状态压缩，用二进制位来表示n的状态，位运算比较快 |
 | 313 | [超级丑数](https://leetcode-cn.com/problems/super-ugly-number/) | Medium | priority_queue | ⭐ |
+| 413 | [等差数列划分](https://leetcode-cn.com/problems/arithmetic-slices/) | Medium | 巧妙解决1,3,6,10,15数据 | 无 |
+| 446 | [等差数列划分 II - 子序列](https://leetcode-cn.com/problems/arithmetic-slices-ii-subsequence/) | Hard | 在446基础上添加哈希表数组 | ⭐ |
 
 
 
