@@ -124,6 +124,7 @@
 | 313 | [超级丑数](https://leetcode-cn.com/problems/super-ugly-number/) | Medium | priority_queue | ⭐ |
 | 413 | [等差数列划分](https://leetcode-cn.com/problems/arithmetic-slices/) | Medium | 巧妙解决1,3,6,10,15数据 | 无 |
 | 446 | [等差数列划分 II - 子序列](https://leetcode-cn.com/problems/arithmetic-slices-ii-subsequence/) | Hard | 在446基础上添加哈希表数组 | ⭐ |
+| 516 | [最长回文子序列](https://leetcode-cn.com/problems/longest-palindromic-subsequence/) | Medium | 动态规划 | 无 |
 
 
 
