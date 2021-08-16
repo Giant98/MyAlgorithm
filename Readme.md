@@ -126,6 +126,7 @@
 | 446 | [等差数列划分 II - 子序列](https://leetcode-cn.com/problems/arithmetic-slices-ii-subsequence/) | Hard | 在446基础上添加哈希表数组 | ⭐ |
 | 516 | [最长回文子序列](https://leetcode-cn.com/problems/longest-palindromic-subsequence/) | Medium | 动态规划 | 无 |
 | 233 | [数字 1 的个数](https://leetcode-cn.com/problems/number-of-digit-one/) | Hard | 设计 | [C/C++ 取整函数ceil(),floor()](https://www.cnblogs.com/zjutlitao/p/3558218.html) |
+| 526 | [优美的排列](https://leetcode-cn.com/problems/beautiful-arrangement/) | Medium | 回溯 | 可以用match数组提高回溯效率 |
 
 
 
