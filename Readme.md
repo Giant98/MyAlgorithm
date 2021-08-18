@@ -128,6 +128,7 @@
 | 233 | [数字 1 的个数](https://leetcode-cn.com/problems/number-of-digit-one/) | Hard | 设计 | [C/C++ 取整函数ceil(),floor()](https://www.cnblogs.com/zjutlitao/p/3558218.html) |
 | 526 | [优美的排列](https://leetcode-cn.com/problems/beautiful-arrangement/) | Medium | 回溯 | 可以用match数组提高回溯效率 |
 | 551 | [学生出勤记录 I](https://leetcode-cn.com/problems/student-attendance-record-i/) | Easy | 无 | 无 |
+| 552 | [学生出勤记录 II](https://leetcode-cn.com/problems/student-attendance-record-ii/) | Hard | 数学推导 | 无 |
 
 
 
