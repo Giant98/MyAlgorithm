@@ -131,6 +131,7 @@
 | 552 | [学生出勤记录 II](https://leetcode-cn.com/problems/student-attendance-record-ii/) | Hard | 数学推导 | 无 |
 | 345 | [反转字符串中的元音字母](https://leetcode-cn.com/problems/reverse-vowels-of-a-string/) | Easy | 无 | string.find('test')!=string.npos               从字符串的pos位置开始，查找子字符串str。如果找到，则返回该子字符串首次出现时其首字符的索引；否则，返回string::npos           C++自带swap函数 |
 | 541 | [反转字符串 II](https://leetcode-cn.com/problems/reverse-string-ii/) | Easy | 无 | reverse()反转字符串 |
+| 1646 | [获取生成数组中的最大值](https://leetcode-cn.com/problems/get-maximum-in-generated-array/) | Easy | 无 | 模拟 |
 
 
 
