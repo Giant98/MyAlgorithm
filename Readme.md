@@ -133,6 +133,7 @@
 | 541 | [反转字符串 II](https://leetcode-cn.com/problems/reverse-string-ii/) | Easy | 无 | reverse()反转字符串 |
 | 1646 | [获取生成数组中的最大值](https://leetcode-cn.com/problems/get-maximum-in-generated-array/) | Easy | 无 | 模拟 |
 | 787 | [K 站中转内最便宜的航班](https://leetcode-cn.com/problems/cheapest-flights-within-k-stops/) | Medium | Dijkstra算法 | 经典⭐ |
+| 797 | [所有可能的路径](https://leetcode-cn.com/problems/all-paths-from-source-to-target/) | Medium | 栈+深搜 | 经典⭐ |
 
 
 
