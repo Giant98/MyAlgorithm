@@ -135,6 +135,7 @@
 | 787 | [K 站中转内最便宜的航班](https://leetcode-cn.com/problems/cheapest-flights-within-k-stops/) | Medium | Dijkstra算法 | 经典⭐ |
 | 797 | [所有可能的路径](https://leetcode-cn.com/problems/all-paths-from-source-to-target/) | Medium | 栈+深搜 | 经典⭐ |
 | 881 | [救生艇](https://leetcode-cn.com/problems/boats-to-save-people/) | Medium | 贪心 | 经典⭐据说是腾讯面试题 |
+| 295 | [数据流的中位数](https://leetcode-cn.com/problems/find-median-from-data-stream/) | Hard | 有序集合multiset+双指针 | 发现multiset底层插入特性，记在Notebook |
 
 
 
